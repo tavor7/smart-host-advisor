@@ -1,0 +1,642 @@
+amenity,source,estimated_cost,min_price,max_price,n_products
+table and chairs,IKEA,504.5,99.99,999.99,152
+shelf unit,IKEA,79.99,14.99,260.0,92
+drawer dresser,IKEA,279.99,59.99,599.99,77
+artificial potted plant,IKEA,12.99,1.29,99.99,76
+rug,IKEA,99.99,4.99,599.99,72
+table,IKEA,249.99,59.99,999.99,69
+chair,IKEA,80.0,15.0,399.99,68
+frame,IKEA,29.99,1.49,139.99,67
+box,IKEA,7.99,2.99,55.0,67
+duvet cover and pillowcases,IKEA,29.99,17.99,79.99,58
+armchair,IKEA,269.0,45.0,699.0,56
+vase,IKEA,14.99,0.99,49.99,54
+wardrobe combination,IKEA,565.0,165.0,995.0,54
+nightstand,IKEA,89.99,14.99,199.99,54
+storage combination,IKEA,222.5,29.99,848.0,54
+food container with lid,IKEA,8.99,1.99,15.99,51
+desk,IKEA,193.24,59.99,649.0,50
+bookcase,IKEA,149.0,24.99,837.0,49
+plant pot,IKEA,9.49,0.69,49.99,48
+countertop,IKEA,119.0,39.0,349.0,47
+mirror,IKEA,79.99,4.99,199.99,46
+wall shelf,IKEA,25.0,1.99,299.0,45
+bedroom furniture,IKEA,528.99,199.98,928.98,45
+led bulb e lumen,IKEA,10.99,2.49,21.99,44
+bed frame,IKEA,249.0,59.0,499.0,44
+scented candle in glass,IKEA,4.99,0.99,11.99,44
+table lamp,IKEA,29.99,12.99,299.99,44
+pendant lamp,IKEA,49.99,7.99,249.99,41
+box with lid,IKEA,9.99,0.89,37.99,41
+cabinet with doors,IKEA,129.0,29.99,499.0,41
+basket,IKEA,21.49,3.99,39.99,40
+dish towel,IKEA,5.99,0.99,12.99,39
+chair pad,IKEA,14.99,2.99,65.0,39
+place mat,IKEA,4.99,0.99,8.99,38
+tv unit,IKEA,179.99,24.99,449.99,37
+side table,IKEA,55.0,9.99,199.99,36
+coffee table,IKEA,159.99,29.99,449.99,36
+picture,IKEA,27.49,12.99,99.99,36
+bed frame with storage,IKEA,499.0,319.0,969.0,35
+cushion cover,IKEA,9.99,4.99,24.99,35
+storage case,IKEA,12.99,1.99,29.99,34
+bowl,IKEA,3.99,1.0,49.99,34
+glassdoor cabinet,IKEA,243.5,54.99,599.0,32
+extendable table,IKEA,449.99,119.99,799.99,31
+plate,IKEA,4.99,0.59,24.99,29
+gift wrap,IKEA,4.99,1.29,4.99,28
+bath towel,IKEA,11.99,2.99,16.99,28
+door mat,IKEA,19.99,1.99,59.99,28
+loveseat,IKEA,480.0,99.99,999.0,27
+paper napkin,IKEA,2.99,1.49,9.99,27
+glass,IKEA,6.99,0.59,19.99,27
+cover for sofa,IKEA,149.0,69.0,300.0,27
+hook,IKEA,4.0,0.99,14.99,27
+desk and chair,IKEA,239.98,64.98,829.98,27
+curtains,IKEA,49.99,9.99,99.99,27
+lamp shade,IKEA,6.99,4.99,19.99,27
+throw,IKEA,19.99,2.99,79.99,26
+ottoman,IKEA,219.0,50.0,399.0,26
+storage box with lid,IKEA,10.99,4.99,29.99,26
+piece dinnerware set,IKEA,64.99,4.99,149.99,26
+cushion,IKEA,30.0,3.99,319.0,25
+sheer curtains,IKEA,24.99,4.99,79.99,25
+storage box,IKEA,19.99,1.99,229.99,25
+shelving unit,IKEA,135.0,40.0,465.0,25
+wardrobe with doors,IKEA,199.99,129.99,299.99,25
+curtain rod,IKEA,10.0,2.0,39.99,25
+plant stand,IKEA,39.99,12.99,299.99,24
+door,IKEA,77.5,18.0,184.0,24
+jar with lid,IKEA,5.99,2.99,19.99,24
+seat modular sofa,IKEA,380.0,70.0,930.0,24
+storage combination with boxes,IKEA,119.99,84.99,179.99,23
+roller blind,IKEA,42.99,19.99,69.99,23
+sideboard,IKEA,299.0,49.0,599.0,23
+bathroom vanity with sink faucet,IKEA,599.0,489.0,953.0,23
+stool,IKEA,39.99,9.99,64.99,23
+tv storage combination,IKEA,266.98,110.96,947.99,22
+pegboard combination,IKEA,45.99,23.99,68.99,22
+utility cart,IKEA,59.99,19.99,239.99,22
+shelf unit with inserts,IKEA,87.5,11.99,424.99,22
+decoration,IKEA,9.99,2.49,24.99,22
+cabinet,IKEA,129.0,23.0,449.0,21
+cellular blind,IKEA,44.99,29.99,79.99,21
+mug,IKEA,4.99,0.99,7.99,21
+piece flatware set,IKEA,29.99,1.99,99.99,21
+bluetooth speaker,IKEA,79.99,31.98,159.98,20
+side plate,IKEA,3.49,1.0,19.99,20
+room darkening curtains,IKEA,49.99,19.99,89.99,20
+tealight holder,IKEA,4.49,0.49,12.99,20
+shopping bag,IKEA,2.99,0.89,4.99,20
+precut fabric,IKEA,19.99,14.99,24.99,20
+swivel chair,IKEA,129.99,34.99,549.0,19
+bin with lid,IKEA,17.99,3.99,39.99,19
+base cabinet with drawers,IKEA,240.0,110.0,514.0,19
+handle,IKEA,12.0,1.0,22.0,19
+bath faucet,IKEA,85.0,40.0,130.0,18
+bookcase with doors,IKEA,149.0,99.0,278.0,18
+serving bowl,IKEA,8.99,2.49,24.99,18
+high cabinet with doors,IKEA,299.0,199.0,450.0,18
+sofa,IKEA,799.0,199.0,899.0,17
+sleeper sofa,IKEA,599.0,349.0,999.0,17
+chaise,IKEA,540.0,44.99,800.0,17
+deep platebowl,IKEA,5.49,1.0,14.99,17
+rug flatwoven,IKEA,59.99,39.99,299.99,17
+flatware tray,IKEA,19.99,3.99,50.97,17
+artificial flower,IKEA,2.99,0.69,14.99,17
+fitted sheet,IKEA,12.99,8.99,94.99,17
+food container,IKEA,6.99,2.99,12.99,16
+tree ornament,IKEA,9.99,1.99,16.99,16
+shoe cabinet with compartments,IKEA,149.99,49.99,199.99,16
+led string light with lights,IKEA,14.99,7.99,59.99,16
+frame with poster,IKEA,32.49,14.99,69.99,16
+frying pan,IKEA,32.49,6.99,79.99,16
+bath sheet,IKEA,15.99,11.99,23.99,15
+floor lamp,IKEA,79.99,9.99,399.99,15
+drawer unit,IKEA,75.0,17.99,599.0,15
+bar stool,IKEA,130.0,55.0,185.0,15
+cover for loveseat,IKEA,99.0,39.0,249.0,15
+tablecloth,IKEA,24.99,6.99,34.99,15
+hanger,IKEA,17.99,2.49,17.99,15
+pocket spring mattress,IKEA,319.5,129.0,499.0,14
+wall clock,IKEA,24.99,4.99,79.99,14
+wardrobe,IKEA,349.99,199.99,549.99,14
+milk chocolate bar,IKEA,2.29,0.99,5.99,14
+bar table,IKEA,284.99,99.99,399.99,14
+pillow,IKEA,19.99,3.49,99.99,14
+bib,IKEA,6.99,3.99,9.99,14
+bench,IKEA,99.99,44.99,399.99,14
+changing table,IKEA,164.0,39.0,589.0,14
+bag,IKEA,3.99,1.29,11.99,14
+watering can,IKEA,14.99,2.49,29.99,14
+daybed with drawers mattresses,IKEA,457.0,299.0,697.0,14
+armchair and ottoman,IKEA,399.0,229.0,748.0,13
+cutting board,IKEA,19.99,3.99,39.99,13
+ceiling spotlight with lights,IKEA,29.99,9.99,79.99,13
+storage combination with drawers,IKEA,549.99,365.0,769.99,13
+cart,IKEA,29.99,17.99,79.99,13
+cabinet with sliding doors,IKEA,270.0,115.0,829.0,13
+bar stool with backrest,IKEA,115.0,34.99,155.0,13
+storage combination with doors,IKEA,480.0,240.0,840.0,13
+foam mattress,IKEA,240.0,79.0,449.0,13
+table and folding chairs,IKEA,159.99,49.99,369.99,12
+container,IKEA,7.0,0.99,25.0,12
+pot with lid,IKEA,47.49,9.99,139.99,12
+conference table,IKEA,254.99,199.99,349.99,12
+curtains with tiebacks,IKEA,39.99,17.99,59.99,12
+wine glass,IKEA,11.49,1.49,24.99,12
+gaming desk,IKEA,479.98,129.99,849.0,12
+trash can,IKEA,14.99,1.99,19.99,12
+candlestick,IKEA,17.49,9.99,24.99,12
+bench with storage,IKEA,179.99,79.99,349.0,12
+blackout curtains,IKEA,57.49,24.99,79.99,12
+table and armchairs,IKEA,609.99,249.99,949.99,11
+sink with water trap,IKEA,160.0,90.0,240.0,11
+dish drainer,IKEA,12.99,1.99,45.0,11
+umbrella,IKEA,69.99,7.99,429.99,11
+wardrobe with sliding doors,IKEA,299.99,199.99,768.0,11
+picture ledge,IKEA,9.99,4.99,19.99,11
+tin with lid,IKEA,9.99,5.99,12.99,11
+washcloth,IKEA,4.99,1.99,5.99,11
+crib,IKEA,299.0,129.0,349.0,11
+laundry basket,IKEA,59.99,12.99,79.99,11
+drawer unit on casters,IKEA,85.0,49.99,299.99,11
+kitchen faucet,IKEA,107.0,42.0,182.0,11
+wall bracket,IKEA,5.0,2.5,27.99,11
+box with compartments,IKEA,9.99,4.99,15.99,11
+hand towel,IKEA,4.99,1.99,8.99,11
+storage bag,IKEA,4.99,2.99,24.99,10
+remote control,IKEA,13.99,5.99,14.99,10
+frame for pictures,IKEA,24.99,14.99,97.99,10
+led decorative table lamp,IKEA,24.99,14.99,99.99,10
+driver for wireless control,IKEA,42.5,35.0,45.0,10
+roman blind,IKEA,43.99,34.99,54.99,10
+organizer,IKEA,0.99,0.29,11.99,10
+wall decoration,IKEA,22.49,4.99,29.99,10
+hallway furniture,IKEA,159.96,34.96,345.95,10
+magazine file,IKEA,6.99,0.99,19.99,10
+serving plate,IKEA,14.99,9.99,29.99,10
+scented tealight,IKEA,3.99,3.49,3.99,10
+lid,IKEA,6.0,1.0,14.99,10
+mirror with builtin lighting,IKEA,239.99,49.99,269.99,10
+led decorative light,IKEA,9.99,6.99,24.99,10
+shower curtain,IKEA,8.99,1.99,19.99,10
+towel rail,IKEA,17.99,9.99,24.99,10
+double curtain rod combination,IKEA,38.5,15.0,61.0,10
+knob,IKEA,7.0,0.75,12.0,10
+mirror cabinet w builtin lighting,IKEA,229.0,199.0,339.0,9
+colander,IKEA,9.99,1.99,19.99,9
+saucepan with lid,IKEA,17.99,8.99,99.99,9
+led spotlight,IKEA,15.0,5.99,17.0,9
+desk organizer,IKEA,17.99,6.99,29.99,9
+open kitchen unit,IKEA,195.0,135.0,490.0,9
+measuring cups,IKEA,7.99,2.99,9.99,9
+pouffe,IKEA,129.99,49.99,299.0,9
+dressing table,IKEA,129.99,99.99,179.99,9
+scented candle in metal cup,IKEA,3.99,3.99,9.99,9
+duvet cover pillowcase f crib,IKEA,17.99,11.99,34.99,9
+underbed storage box,IKEA,100.0,39.99,110.0,9
+room divider,IKEA,105.0,79.99,199.99,9
+storage basket,IKEA,6.99,0.79,29.99,9
+sonos speaker lamp base with wifi,IKEA,269.99,220.99,349.99,9
+portable induction cooktop,IKEA,74.99,74.99,74.99,9
+pegboard,IKEA,29.99,19.99,29.99,9
+table runner,IKEA,5.99,5.99,24.99,9
+ottoman with storage,IKEA,150.0,12.99,349.0,9
+wall lamp,IKEA,44.99,19.99,79.99,9
+poster,IKEA,5.99,4.99,14.99,9
+meatballs,IKEA,14.99,14.99,14.99,9
+laundry combination,IKEA,190.0,100.0,224.0,9
+double layered blind,IKEA,59.99,49.99,69.99,9
+wall shelf combination,IKEA,69.98,11.98,147.0,9
+kitchen cart,IKEA,179.99,69.99,199.99,9
+baby blanket,IKEA,17.99,6.99,29.99,9
+wire basket,IKEA,14.99,10.0,19.99,8
+resealable bag,IKEA,3.49,1.99,12.99,8
+single track set,IKEA,79.0,35.0,92.0,8
+conference chair,IKEA,249.99,89.99,369.99,8
+countertop for kitchen island,IKEA,179.0,139.0,189.0,8
+spoon,IKEA,5.49,0.49,11.99,8
+leg,IKEA,22.0,10.0,50.0,8
+artificial wreath,IKEA,12.99,9.99,19.99,8
+crib fitted sheet,IKEA,14.99,4.99,22.99,8
+scented cndl in glass w lid wicks,IKEA,12.99,9.99,19.99,8
+pot holder,IKEA,4.99,3.99,5.99,8
+headboard with storage compartment,IKEA,150.0,130.0,170.0,8
+childrens table,IKEA,79.99,22.99,99.99,8
+utensil tray,IKEA,7.99,2.99,12.99,8
+dry food jar with lid,IKEA,12.49,4.99,19.99,8
+artificial bouquet,IKEA,16.49,4.99,34.99,8
+lounge chair,IKEA,160.0,79.99,210.0,8
+bench with shoe storage,IKEA,69.99,24.99,99.99,8
+utensil holder,IKEA,5.99,3.99,12.99,8
+mini chest with drawers,IKEA,17.49,12.99,17.99,8
+kitchenette,IKEA,386.5,149.0,876.0,8
+mattress topper,IKEA,174.0,49.0,299.0,8
+cover for seat pad,IKEA,25.0,20.0,40.0,8
+kitchen island,IKEA,449.99,449.99,699.0,8
+bed frame with storage headboard,IKEA,549.0,149.0,699.0,8
+ergonomic pillow,IKEA,44.99,11.99,69.99,8
+kitchen organizer set,IKEA,18.46,16.96,19.95,8
+laundry bag,IKEA,17.49,7.99,39.99,8
+childrens chair,IKEA,27.49,19.99,119.99,8
+sliding door,IKEA,530.0,500.0,975.0,8
+piece knife set,IKEA,39.99,9.99,69.99,8
+spray bottle,IKEA,1.99,1.99,2.99,7
+mirror cabinet with doors,IKEA,249.0,29.99,349.0,7
+high cabinet,IKEA,119.99,119.99,299.0,7
+finials,IKEA,10.0,3.0,14.0,7
+drawer front,IKEA,33.0,18.0,88.0,7
+led light strip,IKEA,44.99,7.99,44.99,7
+napkin holder,IKEA,12.99,1.99,14.99,7
+toilet brush,IKEA,11.99,3.99,19.99,7
+shade for speaker lamp base,IKEA,59.0,49.0,59.0,7
+nesting tables,IKEA,149.99,26.98,399.99,7
+bluetooth speaker lamp,IKEA,89.99,59.99,129.99,7
+desk and storage combination,IKEA,309.97,208.98,868.98,7
+rail,IKEA,7.99,6.0,11.99,7
+food storage bag,IKEA,5.99,4.99,5.99,7
+bathrobe,IKEA,39.99,29.99,49.99,7
+kitchen,IKEA,455.0,305.0,705.0,7
+upholstered bed frame,IKEA,249.0,149.0,748.0,7
+bar table and bar stools,IKEA,559.99,229.99,889.99,7
+storage combination wglass doors,IKEA,398.0,328.0,600.0,7
+insert with drawers,IKEA,20.0,9.99,20.0,7
+starter kit,IKEA,29.99,17.99,34.99,7
+plant mister,IKEA,12.99,6.99,14.99,7
+dining table,IKEA,449.99,399.99,649.99,7
+mattress protector,IKEA,19.99,5.99,69.99,7
+topfreezer refrigerator,IKEA,749.0,749.0,899.0,7
+selfwatering insert,IKEA,3.99,3.99,14.99,7
+slippers,IKEA,4.99,2.99,4.99,7
+led candle,IKEA,3.99,3.99,7.99,7
+piece bathroom set,IKEA,12.99,4.99,19.99,7
+divider for drawer,IKEA,18.0,14.0,20.0,7
+storage bag for cart,IKEA,5.0,5.0,49.99,7
+unscented pillar candle,IKEA,5.99,3.99,9.99,7
+tray,IKEA,7.99,1.49,39.99,7
+shoe box,IKEA,9.99,9.99,26.99,7
+hanging umbrella with base,IKEA,199.99,94.99,479.99,7
+drawer unitdrop file storage,IKEA,129.99,69.99,499.99,7
+bench with toy storage,IKEA,99.99,99.99,99.99,6
+seat conversation set,IKEA,690.0,475.0,840.0,6
+suspension rail with shelfwll grid,IKEA,251.95,123.97,691.89,6
+cover f seat sofa w chaise lounge,IKEA,189.0,89.0,299.0,6
+seatback pad,IKEA,47.5,35.0,240.0,6
+plate holder,IKEA,7.99,5.99,12.99,6
+bottle with stopper,IKEA,3.99,2.99,5.99,6
+ginger thins,IKEA,7.74,6.49,8.99,6
+high chair with tray,IKEA,24.99,6.0,99.99,6
+extension cord,IKEA,29.99,7.99,39.99,6
+bench with backrest,IKEA,175.0,145.0,354.0,6
+dog bed,IKEA,74.99,29.99,149.99,6
+basket with suction cup,IKEA,8.99,8.99,8.99,6
+toilet roll holder,IKEA,8.99,6.99,19.99,6
+laptop support,IKEA,7.99,5.99,29.99,6
+wireless motion sensor,IKEA,10.49,7.99,12.99,6
+drawer chest,IKEA,124.99,99.99,149.99,6
+pull down kitchen faucet with spray,IKEA,124.0,89.0,179.0,6
+wing chair,IKEA,399.5,349.99,509.99,6
+led wall lamp,IKEA,64.99,17.99,99.99,6
+legs for sofa,IKEA,20.0,20.0,20.0,6
+gateleg table,IKEA,229.99,169.99,349.99,6
+sparkling drink,IKEA,5.74,5.49,5.99,6
+oven mitt,IKEA,4.99,2.99,4.99,6
+doorwindow sensor,IKEA,11.49,7.99,14.99,6
+recycling solution,IKEA,47.97,47.97,47.97,6
+chair cover,IKEA,30.0,20.0,50.0,6
+air quality sensor,IKEA,44.99,29.99,259.98,6
+cold smoked salmon,IKEA,10.99,10.99,10.99,6
+led ceiling lamp,IKEA,54.99,8.99,79.99,6
+teapot,IKEA,24.99,17.99,24.99,6
+drawer liner,IKEA,4.3,0.62,7.99,6
+shoe rack,IKEA,24.99,4.99,29.99,6
+sink,IKEA,154.0,64.0,314.0,6
+room darkening cellular blind,IKEA,37.49,29.99,49.99,6
+shelving unit with underframe,IKEA,109.99,69.99,149.99,6
+wireless charger,IKEA,8.99,7.99,9.99,6
+corner kitchen,IKEA,825.0,720.0,850.0,6
+measuring spoons,IKEA,6.99,1.49,6.99,6
+chair with long cover,IKEA,135.0,135.0,135.0,6
+duvet insert,IKEA,54.99,39.99,79.99,6
+bench pad,IKEA,30.0,22.99,399.0,6
+bath mat,IKEA,9.99,3.99,9.99,6
+headboard,IKEA,130.0,50.0,200.0,6
+sonos wifi bookshelf speaker,IKEA,269.98,179.99,359.98,6
+base cabinet frame,IKEA,173.0,76.0,340.0,6
+microwave oven,IKEA,69.99,69.99,199.0,6
+ceiling fan w extension downrod,IKEA,109.99,10.0,179.99,6
+junior chair,IKEA,74.99,24.99,79.99,6
+candlesticktealight holder,IKEA,29.99,6.99,29.99,6
+w port usbc charger,IKEA,24.99,7.99,24.99,6
+wallmounted storage frame,IKEA,180.0,170.0,200.0,5
+artificial christmas tree,IKEA,129.0,39.0,129.0,5
+laptop stand,IKEA,44.99,32.99,99.99,5
+desk sitstand,IKEA,529.99,489.99,649.99,5
+greenhouse,IKEA,29.99,29.99,179.99,5
+fork,IKEA,4.99,3.99,11.99,5
+step stool,IKEA,29.99,9.99,59.99,5
+glass top,IKEA,40.0,40.0,50.0,5
+spatula,IKEA,3.99,0.49,11.99,5
+pleated shade,IKEA,29.99,4.99,39.99,5
+carafe,IKEA,2.99,2.99,24.99,5
+mattress and mattress pad,IKEA,548.0,358.0,548.0,5
+pot lid organizer,IKEA,7.99,7.99,7.99,5
+food cover,IKEA,7.99,5.99,7.99,5
+privacy screen,IKEA,119.99,110.0,119.99,5
+flexible laundry basket,IKEA,6.99,6.99,9.99,5
+portable bluetooth speaker,IKEA,15.99,15.99,49.99,5
+shoestorage cabinet,IKEA,39.99,39.99,99.99,5
+led lighting chain with lights,IKEA,14.99,4.99,49.99,5
+conference chair with armrests,IKEA,279.99,119.99,399.99,5
+cabinet lighting,IKEA,20.0,20.0,25.0,5
+shower shelf,IKEA,19.99,14.99,19.99,5
+rack with hooks,IKEA,19.99,1.99,29.99,5
+corner section,IKEA,420.0,130.0,750.0,5
+cover for sectional,IKEA,219.0,100.0,449.0,5
+tv bench with doors,IKEA,225.0,200.0,305.0,5
+fruit and vegetable smoothie,IKEA,3.99,2.49,3.99,5
+cover for armchair,IKEA,79.0,49.0,119.0,5
+scented candle in ceramic jar w lid,IKEA,22.99,22.99,22.99,5
+usbc to usbc,IKEA,7.99,2.99,9.99,5
+bathroom vanity with drawers,IKEA,259.0,147.0,429.0,5
+step stool with handrail,IKEA,29.99,29.99,39.99,5
+coaster,IKEA,2.99,1.49,3.99,5
+washing bag,IKEA,1.99,1.99,1.99,5
+baking dish,IKEA,14.99,14.99,29.99,5
+sealing clip,IKEA,3.99,1.99,4.99,5
+apron front sink,IKEA,374.0,224.0,414.0,5
+apron,IKEA,9.99,4.99,14.99,5
+floor protector,IKEA,39.99,19.99,49.99,5
+drying rack,IKEA,39.99,9.99,39.99,5
+ceiling track,IKEA,39.99,39.99,89.99,5
+changing pad,IKEA,25.0,6.99,25.0,5
+rocking chair,IKEA,289.0,189.0,329.0,5
+suspension rail w shelves and rail,IKEA,139.97,127.98,139.97,5
+reclining chair,IKEA,85.0,75.0,125.0,5
+cooler bag,IKEA,9.99,3.99,19.99,5
+water leak sensor,IKEA,7.99,7.99,12.99,5
+sofa with chaise,IKEA,649.0,249.0,899.0,5
+hanger for door,IKEA,8.99,8.99,14.99,5
+conference chair with casters,IKEA,329.99,299.99,329.99,4
+hook with suction cup,IKEA,4.99,4.99,9.99,4
+led lighting with sensor,IKEA,20.0,7.99,20.0,4
+walldoor rack with knobs,IKEA,17.99,17.99,17.99,4
+cookies with almonds and ginger,IKEA,6.49,3.49,6.49,4
+door stop,IKEA,4.99,4.99,4.99,4
+semihard cheese,IKEA,9.99,9.99,9.99,4
+hanging decoration,IKEA,5.99,4.99,9.99,4
+plant stand on wheels,IKEA,14.99,9.99,19.99,4
+hanging planter,IKEA,12.99,9.99,12.99,4
+bedside tableshelf unit,IKEA,24.99,24.99,24.99,4
+biscuits,IKEA,3.49,1.99,4.99,4
+headrest cushion,IKEA,90.0,35.0,100.0,4
+armrest,IKEA,87.5,30.0,230.0,4
+tumbler,IKEA,3.99,1.99,14.99,4
+tabletop ironing board,IKEA,19.99,9.99,39.99,4
+charcoal grill,IKEA,699.0,399.0,799.0,4
+trolley with lid,IKEA,43.98,37.98,49.98,4
+double sink with water trap,IKEA,240.0,240.0,270.0,4
+alarm clock,IKEA,3.49,1.99,9.99,4
+modular loveseat,IKEA,700.0,640.0,980.0,4
+rye crispbread,IKEA,6.49,4.99,7.99,4
+gas cooktop,IKEA,599.0,399.0,849.0,4
+glass dome with base,IKEA,14.99,14.99,19.99,4
+wearable blanket,IKEA,24.99,24.99,24.99,4
+tabletop,IKEA,150.0,39.99,160.0,4
+laundry bag with stand,IKEA,15.49,5.99,24.99,4
+open storage,IKEA,95.0,34.99,95.0,4
+air purifier,IKEA,139.99,49.99,199.99,4
+cover for outdoor furniture,IKEA,54.99,39.99,89.99,4
+lazy susan,IKEA,9.99,9.99,9.99,4
+kitchen island shelf unit,IKEA,275.0,220.0,330.0,4
+basket with compartments,IKEA,24.99,19.99,29.99,4
+oat biscuits,IKEA,4.99,3.49,6.49,4
+set for panel curtains,IKEA,55.0,48.0,62.0,4
+soft toy,IKEA,5.99,1.99,9.99,4
+lantern ftealight,IKEA,7.99,6.99,9.99,4
+work lamp,IKEA,54.99,24.99,69.99,4
+battery pack,IKEA,24.49,19.99,29.0,4
+sliding door frame,IKEA,130.0,130.0,140.0,4
+power supply cord,IKEA,11.5,10.0,12.99,4
+microfiber cloth,IKEA,2.24,1.99,2.49,4
+drawer organizers,IKEA,5.99,4.49,8.99,4
+led floor uplighterreading lamp,IKEA,109.99,24.99,119.99,4
+knife,IKEA,6.49,4.99,12.99,4
+magnetic knife rack,IKEA,20.0,15.0,20.0,4
+outdoor kitchen,IKEA,687.0,370.0,819.0,4
+led ceiling fan with light,IKEA,119.99,44.99,169.99,4
+hook for door,IKEA,1.99,1.99,2.99,4
+mix of sweet and sour jelly candy,IKEA,7.99,7.99,7.99,4
+paper bag,IKEA,8.99,6.99,8.99,4
+slatted bed base,IKEA,109.5,50.0,169.0,4
+inner seat pad,IKEA,50.0,45.0,55.0,4
+base corner cabinet,IKEA,200.0,111.0,200.0,4
+accessories stand,IKEA,34.99,34.99,34.99,4
+plug,IKEA,11.49,9.99,12.99,4
+shelf unit with doors,IKEA,150.0,100.0,270.0,4
+filter for particle removal,IKEA,21.5,15.0,25.0,4
+corner wall shelf unit,IKEA,24.99,24.99,49.99,4
+table with air purifier,IKEA,267.49,249.99,284.99,4
+suspension rail,IKEA,18.0,10.0,20.0,4
+stickon floor protectors set of,IKEA,1.49,0.99,1.99,4
+mesh storage box,IKEA,12.0,8.0,12.0,4
+rack with knobs,IKEA,13.99,6.99,19.99,4
+comforter set,IKEA,74.99,39.99,89.99,4
+induction cooktop,IKEA,799.0,599.0,899.0,4
+builtin dishwasher,IKEA,649.0,399.0,799.0,4
+recycling bin with lid,IKEA,22.99,22.99,22.99,4
+high cab w drs fronts drawers,IKEA,766.0,766.0,881.0,4
+blackout pleated blind,IKEA,22.99,5.99,39.99,4
+kids armchair,IKEA,94.99,59.99,129.99,4
+folding chair,IKEA,39.99,25.0,50.0,4
+protector f seat sofa w chaise,IKEA,89.0,79.0,99.0,4
+storage unit,IKEA,42.0,39.99,44.0,4
+led clamp spotlight,IKEA,22.49,21.99,34.99,4
+soap dispenser,IKEA,3.99,2.99,7.99,4
+backpack,IKEA,42.99,39.99,45.99,4
+dish brush,IKEA,1.99,0.79,6.99,4
+artifi potted plant w pot,IKEA,3.99,3.99,3.99,4
+hybrid mattress,IKEA,599.0,549.0,599.0,4
+kitchen faucet with handspray,IKEA,184.0,159.0,209.0,4
+gaming chair,IKEA,194.99,89.99,399.99,4
+kitchen island w back panel,IKEA,365.0,310.0,420.0,4
+box with lidclip lock,IKEA,24.49,10.99,39.99,4
+cover for ottoman,IKEA,62.0,30.0,99.0,4
+acoustic screen,IKEA,230.0,170.0,250.0,4
+candle holder,IKEA,9.49,2.49,12.99,4
+wall storage,IKEA,84.49,19.99,91.99,4
+shelving unit with cabinet,IKEA,449.98,299.99,599.98,4
+chaise cover,IKEA,95.0,60.0,160.0,4
+outlet power strip usb ports,IKEA,29.99,29.99,29.99,4
+baby towel with hood,IKEA,14.99,9.99,19.99,4
+chaise section,IKEA,575.0,550.0,900.0,4
+bathshower set thermostatic faucet,IKEA,199.99,199.99,199.99,4
+oatmeal cookies,IKEA,9.49,8.99,9.99,4
+kitchen countertop organizer,IKEA,24.99,24.99,24.99,3
+overtherange microwave,IKEA,399.0,299.0,499.0,3
+shoehorn,IKEA,2.99,0.99,6.99,3
+pillow protector,IKEA,9.99,7.99,19.99,3
+monitor stand,IKEA,29.99,29.99,29.99,3
+storage case for wrapping paper,IKEA,12.99,12.99,12.99,3
+touch top trash can,IKEA,19.99,19.99,19.99,3
+bed frame with mattress,IKEA,598.0,598.0,728.0,3
+seat shell,IKEA,50.0,35.0,60.0,3
+tray table,IKEA,19.99,19.99,19.99,3
+cat house,IKEA,25.0,8.99,25.0,3
+scissors,IKEA,1.99,1.99,6.99,3
+lunch bag,IKEA,1.99,1.99,9.99,3
+upholstered storage bed,IKEA,849.0,100.0,849.0,3
+paint brush,IKEA,2.99,2.99,3.99,3
+dressing table with mirror,IKEA,249.99,249.99,299.99,3
+corner base cabinet with carousel,IKEA,425.0,110.0,425.0,3
+cord set,IKEA,15.0,15.0,15.0,3
+multifunctional dish rack,IKEA,17.99,17.99,17.99,3
+air purifieradditional gas filter,IKEA,234.99,104.99,234.99,3
+crib duvet insert,IKEA,19.99,19.99,34.99,3
+curtain ring with clip and hook,IKEA,9.0,8.0,9.0,3
+front for bluetooth speaker,IKEA,10.0,10.0,10.0,3
+sink shelfcorner shelf,IKEA,39.99,39.99,249.98,3
+artificial spray,IKEA,3.99,2.99,5.99,3
+candelabra,IKEA,12.99,12.99,12.99,3
+shelving combination,IKEA,398.0,387.0,507.0,3
+open cabinet,IKEA,120.0,101.0,130.0,3
+gift box,IKEA,7.49,7.49,7.49,3
+wall cb w shlvsdoors,IKEA,100.0,84.0,100.0,3
+festive drink,IKEA,1.5,1.5,1.5,3
+storage stool,IKEA,59.99,49.99,59.99,3
+storage unit on casters,IKEA,89.99,54.0,129.99,3
+foam mattress for crib,IKEA,99.0,65.0,99.0,3
+hanger with grip clips,IKEA,0.99,0.99,0.99,3
+decking,IKEA,34.99,17.99,54.99,3
+pitcher,IKEA,19.99,19.99,24.99,3
+pegboard drawer organizer,IKEA,24.99,24.99,24.99,3
+adjustable organizer for drawer,IKEA,12.99,9.99,12.99,3
+scrubbing pad,IKEA,1.49,1.49,1.49,3
+memo board,IKEA,17.99,17.99,17.99,3
+mild mustard,IKEA,3.99,3.99,3.99,3
+sonos speaker lamp,IKEA,279.99,279.99,279.99,3
+wall grid with storage,IKEA,248.96,248.96,371.93,3
+box with slider,IKEA,24.98,24.98,24.98,3
+wall cabinet frame,IKEA,78.0,78.0,95.0,3
+wallmounted cabinet combination,IKEA,330.0,100.0,330.0,3
+organizer with compartments,IKEA,14.99,12.99,14.99,3
+washing mitt,IKEA,9.99,9.99,9.99,3
+storage bed,IKEA,549.0,549.0,549.0,3
+waterproof mattress protector,IKEA,14.99,14.99,49.99,3
+console table,IKEA,129.99,129.99,299.99,3
+plant balls,IKEA,6.99,6.99,6.99,3
+flower box,IKEA,50.0,24.99,50.0,3
+kitchen faucet with pullout spout,IKEA,149.0,149.0,171.0,3
+changing table with drawers,IKEA,399.0,399.0,399.0,3
+peeled shrimp,IKEA,8.99,8.99,8.99,3
+piece kitchen utensil set,IKEA,5.99,4.99,14.99,3
+insert with door,IKEA,15.0,15.0,15.0,3
+desk pad,IKEA,9.99,4.99,34.99,3
+base cabinet for sink doors,IKEA,181.0,114.0,181.0,3
+led cabmirror light,IKEA,34.99,34.99,34.99,3
+single track set for wall,IKEA,49.0,49.0,49.0,3
+gingerbread trees,IKEA,3.99,3.99,3.99,3
+sink faucet with sensor,IKEA,200.0,200.0,200.0,3
+changing tablebookshelf,IKEA,149.0,149.0,149.0,3
+led light,IKEA,13.0,13.0,13.0,3
+piece bedlinen set for crib,IKEA,39.99,39.99,39.99,3
+pasta,IKEA,3.99,3.99,3.99,3
+kitchen island with rack,IKEA,799.0,100.0,799.0,3
+clipon basket,IKEA,8.99,6.99,8.99,3
+chair with towel rack,IKEA,79.99,79.99,79.99,3
+book display with storage,IKEA,129.99,129.99,129.99,3
+riser rail with hand showeroutlet,IKEA,79.99,49.99,79.99,3
+shower caddy,IKEA,14.99,14.99,17.99,3
+wallclamp spotlight,IKEA,27.99,22.99,39.99,3
+shoe bag,IKEA,0.99,0.99,0.99,3
+bookcase combinationcrn solution,IKEA,160.0,160.0,160.0,3
+wireless charger with lighting,IKEA,24.99,24.99,24.99,3
+led ceiling track,IKEA,99.99,69.99,99.99,3
+open shelf unit,IKEA,69.0,64.0,69.0,3
+holder for mobile phone,IKEA,1.99,0.99,3.99,3
+paring knife,IKEA,4.99,4.99,7.99,3
+bookshelf speaker floor stand,IKEA,40.0,40.0,40.0,3
+cleaning cloth,IKEA,1.99,1.99,1.99,3
+floor lamp with spotlights,IKEA,99.99,79.99,99.99,3
+coffeetea canister,IKEA,3.99,3.99,3.99,3
+led wardrobe lighting strp w sensor,IKEA,22.0,22.0,32.0,3
+piece train set with track,IKEA,34.99,24.99,34.99,3
+shook,IKEA,4.99,3.0,4.99,3
+jelly candy,IKEA,2.19,2.19,2.19,3
+wireless charging stand,IKEA,24.99,24.99,24.99,3
+cleaning gloves,IKEA,2.99,2.99,2.99,3
+refrigerator,IKEA,124.99,124.99,124.99,3
+storage combination with filing,IKEA,999.98,899.98,999.98,3
+seat module with storage,IKEA,595.0,115.0,670.0,3
+led cntpwrd lght strp w sensor,IKEA,27.0,27.0,32.0,3
+monitor stand with drawer,IKEA,29.99,29.99,29.99,3
+gas grill,IKEA,599.0,59.99,599.0,3
+vacuum flask,IKEA,14.99,5.99,29.99,3
+lowback armchair,IKEA,139.0,139.0,139.0,3
+base cabinet with shelves doors,IKEA,175.0,175.0,175.0,3
+led wreath,IKEA,24.99,24.99,24.99,3
+laundry cabinet,IKEA,199.99,199.99,199.99,3
+acoustic plant box with castors,IKEA,379.99,279.99,379.99,3
+storage with sliding glass doors,IKEA,720.0,545.0,800.0,3
+single track rail,IKEA,25.0,25.0,25.0,3
+glider with hook,IKEA,5.0,5.0,5.0,3
+sink container,IKEA,1.99,1.99,5.99,3
+dustpan and broom,IKEA,14.99,14.99,24.99,3
+sectional,IKEA,869.0,799.0,999.0,3
+stackable bed,IKEA,149.0,149.0,447.0,3
+gift bag,IKEA,7.99,4.99,7.99,3
+folding table,IKEA,39.99,39.99,39.99,3
+childrens stool,IKEA,29.99,6.99,29.99,3
+ginger thins with almonds,IKEA,3.49,3.49,3.49,3
+display shelf,IKEA,29.99,6.0,44.99,3
+bag of chocolate santas,IKEA,5.99,5.99,5.99,3
+wallmounted plant stand,IKEA,24.99,19.99,24.99,3
+piece cable management set,IKEA,7.99,7.99,7.99,3
+seat armchair,IKEA,849.0,499.0,849.0,3
+table and benches,IKEA,369.97,369.97,369.97,3
+mix of roasted nuts,IKEA,1.99,1.99,1.99,3
+piece vehicle set,IKEA,9.99,9.99,12.99,3
+mixing bowl,IKEA,1.49,1.49,8.99,3
+insert with compartments,IKEA,12.99,4.99,12.99,3
+mulled fruit drink,IKEA,5.99,5.99,5.99,3
+picture frame w sonos wifi speaker,IKEA,299.99,299.99,299.99,3
+saut pan with lid,IKEA,34.99,14.99,119.99,3
+sauce for salmon,IKEA,2.99,2.99,2.99,3
+panels for sliding door frame,IKEA,90.0,65.0,105.0,3
+single bowl top mount sink,IKEA,164.0,164.0,219.0,3
+shoe organizer,IKEA,4.99,1.49,4.99,3
+scented potpourri,IKEA,2.99,2.99,2.99,3
+whisk,IKEA,5.99,4.99,11.99,3
+semirecessed sink with water trap,IKEA,180.0,160.0,210.0,3
+plant starter set,IKEA,14.99,14.99,14.99,3
+storage with compartments,IKEA,14.99,14.99,19.99,3
+microfiber pad for flat mop,IKEA,3.99,3.99,3.99,3
+foam mattress for junior bed,IKEA,99.0,99.0,99.0,3
+tablet stand,IKEA,14.99,14.99,15.0,3
+shelf unit for sink,IKEA,490.0,490.0,490.0,3
+unscented block candle,IKEA,12.99,3.99,12.99,3
+dish drying mat,IKEA,5.99,2.99,5.99,3
+gingerbread house,IKEA,4.99,4.99,4.99,3
+papertowel holder,IKEA,4.99,0.99,6.0,3
+led kitchen cntrtp lighting strip,IKEA,22.0,22.0,22.0,3
+cover for armrest,IKEA,35.0,32.0,70.0,3
+door with hinges,IKEA,150.0,95.0,200.0,3
+triple curtain rail,IKEA,30.0,30.0,30.0,3
+piece filter set,IKEA,60.0,43.0,60.0,3
+artificial garland,IKEA,9.99,2.99,14.99,3
+curtain track set f ceiling,IKEA,70.0,70.0,70.0,3
+open wardrobe,IKEA,79.99,79.99,249.99,3
+candle dish,IKEA,1.49,1.49,1.49,3
+multifunctional child chairtable,IKEA,29.99,29.99,29.99,3
+ceiling lamp,IKEA,34.99,19.99,39.99,3
+tray with knife rack,IKEA,17.99,17.99,17.99,3
+crib with drawer,IKEA,499.0,399.0,499.0,3
+changing tablechest,IKEA,299.0,299.0,299.0,3
+letter tray,IKEA,14.99,14.99,27.99,3
+corner solution,IKEA,75.0,75.0,75.0,3
+bookcase with panelglass doors,IKEA,169.0,94.0,169.0,3
+filter for gas cleaning,IKEA,35.0,25.0,35.0,3
+gift bow,IKEA,3.99,3.99,3.99,3
+flour sifter,IKEA,5.99,5.99,5.99,3
+cover for corner section,IKEA,100.0,100.0,150.0,3

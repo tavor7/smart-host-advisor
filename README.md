@@ -222,14 +222,7 @@ df = crawl_ikea(
    - HIGH: similarity ≥ 0.80
    - MEDIUM: similarity ≥ 0.65
    - NO_MATCH: similarity < 0.65
-5. **Manual Rules:** Fallback rules for unmatched cases:
-   - Safety: $25
-   - Connectivity (WiFi): $0
-   - Utilities: $0
-   - Bathroom basics: $30
-   - Kitchen small: $80
-   - Large appliances: $800
-   - And more...
+
 
 **Output:** `amenity_inventory_with_ikea_price_embeddings.csv` with:
 - All amenities from Airbnb

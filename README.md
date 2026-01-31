@@ -21,11 +21,7 @@ smart-host-advisor/
     ├── aggregate_prices.py             # Price aggregation by categories
     ├── match_amenities_embeddings.py   # Matching amenities to prices using embeddings
     ├── config.py                       # Proxy and headers configuration
-    ├── proxy.py                        # Proxy management
-    └── data/                           # Data files
-        ├── ikea_products.csv
-        ├── ikea_aggregate_amenities.csv
-        └── amenity_inventory_with_ikea_price_embeddings.csv
+    └── proxy.py                        # Proxy management
 ```
 
 ---
@@ -331,9 +327,10 @@ python scraping/match_amenities_embeddings.py
 
 ### Running Notebooks:
 
-1. **Upload Data to Databricks:**
-   - Upload Airbnb Parquet files
-   - Configure SAS token for Azure Storage access
+1. **Configure Parameters for Azure Storage access**
+   - storage_account
+   - container 
+   - SAS token
 
 2. **Run Notebooks in Order:**
    - `Linear_Regression + EDA graps.ipynb` (creates Prior)
